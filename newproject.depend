@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1620185412 source:c:\users\nidha\onedrive\desktop\nt\newproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<time.h>
+	<windows.h>
+	"LISTEprim.h"
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1619972336 source:c:\users\nidha\onedrive\desktop\nt\newproject\covid.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"COVIDPRIM.h"
+
+1619206981 c:\users\nidha\onedrive\desktop\nt\newproject\covidprim.h
+	"COVIDSDD.h"
+
+1619206981 c:\users\nidha\onedrive\desktop\nt\newproject\covidsdd.h
+	"COVID.h"
+
+1619206981 c:\users\nidha\onedrive\desktop\nt\newproject\covid.h
+
+1619626168 c:\users\nidha\onedrive\desktop\nt\newproject\listeprim.h
+	"LISTESDD.h"
+	"COVIDPRIM.h"
+
+1619603569 c:\users\nidha\onedrive\desktop\nt\newproject\listesdd.h
+	"LISTE.h"
+
+1619630262 c:\users\nidha\onedrive\desktop\nt\newproject\liste.h
+	"COVIDPRIM.h"
+
+1619740149 source:c:\users\nidha\onedrive\desktop\nt\newproject\liste.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"LISTEprim.h"
+
